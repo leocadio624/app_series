@@ -1,0 +1,10 @@
+1) Tener instalado node v18.12.1
+2) Tener instalado npm v8.19.2
+3) Instalar react con el comando npm install react
+4) Crear una ap con el comando npx create-react-app app_name
+5) Cambiar directorio cd app_name
+6) Eliminar todos los archivos con excepción de la carpeta node_modules
+7) Descargar repositorio con comando git clone https://github.com/leocadio624/app_series.git
+8) Copiar el contenido del repositorio en la carpeta del proyecto que se creo previamente
+9) Ejecutar comando npm install package.json
+10) Ejecutar comando npm start
