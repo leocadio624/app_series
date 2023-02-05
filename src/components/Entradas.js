@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import primes from '../primes.json';
+
 
 
 function Entradas(){
@@ -29,8 +29,9 @@ function Entradas(){
     }
     
     const getPrime =  (indice) =>{
-        --indice;
-        return primes[indice];
+        //--indice;
+        //return primes[indice];
+        return 1;
     }
 
     const fibonacci =  (nterm) =>{
